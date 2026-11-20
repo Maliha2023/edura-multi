@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Edura Multi",
+  "description": "Multi-curriculum AI teacher platform for Bangladesh — authentication, coupon-based onboarding, and admin approval.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
